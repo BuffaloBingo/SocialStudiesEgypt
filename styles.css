@@ -1,9 +1,7 @@
-.body{
+body{
     background-color: rgb(16, 197, 80);
 
 }
 .mainTab{
     background-color: aqua;
-    width: 90vw;
-    height: 20vh;
 }
