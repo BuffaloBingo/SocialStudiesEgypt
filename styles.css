@@ -1,7 +1,20 @@
-body{
-    background-color: rgb(16, 197, 80);
+.body{
+    background-color: rgb(237, 238, 238);
 
 }
-.mainTab{
-    background-color: aqua;
+.tab{
+    background-color: rgb(167, 152, 152);
+    width: 90vw;
+    height: 95vh;
+    position: absolute;
+    left: 5vw;
+    right: 5vw;
+}
+.title{
+    position: absolute;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: "papyrus", fantasy;
+    font-size: 50px;
 }
