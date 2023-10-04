@@ -1,0 +1,4 @@
+
+function arch(){
+alert("hi")
+}

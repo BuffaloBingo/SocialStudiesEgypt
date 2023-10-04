@@ -1,15 +1,8 @@
 .body{
     background-color: rgb(237, 238, 238);
+    user-select: none;
+}
 
-}
-.tab{
-    background-color: rgb(167, 152, 152);
-    width: 90vw;
-    height: 95vh;
-    position: absolute;
-    left: 5vw;
-    right: 5vw;
-}
 .title{
     position: absolute;
     width: 100%;
@@ -17,4 +10,21 @@
     text-align: center;
     font-family: "papyrus", fantasy;
     font-size: 50px;
+}
+.tabBut{
+    height:20vh;
+    width:20vw;
+
+    padding: 30px;
+    margin: -30px;
+    
+
+    font-family: "papyrus", fantasy;
+    font-size: 30px;
+
+    
+}
+
+.arch{
+    background-color: lightcoral;
 }
