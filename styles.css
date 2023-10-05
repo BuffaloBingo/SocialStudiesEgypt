@@ -80,4 +80,6 @@
     width: 5vw;
     height: auto;
     cursor: pointer;
+    position: absolute;
+    left: 5px;
 }
