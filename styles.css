@@ -3,6 +3,7 @@
     user-select: none;
 }
 
+
 .title{
     position: absolute;
     width: 100%;
@@ -15,16 +16,33 @@
     height:20vh;
     width:20vw;
 
-    padding: 30px;
-    margin: -30px;
     
 
     font-family: "papyrus", fantasy;
     font-size: 30px;
+    border-radius: 20px;
+    border-width:5px;
 
     
 }
 
 .arch{
-    background-color: lightcoral;
+    background-color: rgb(203, 39, 39);
+    position:absolute;
+    left:10vw;
+    top: 40vh;
+}
+
+.ast{
+    background-color: rgb(208, 108, 15);
+    position:absolute;
+    left:40vw;
+    top: 40vh;
+}
+
+.hiero{
+    background-color: rgb(212, 206, 37);
+    position:absolute;
+    left:70vw;
+    top: 40vh;
 }
