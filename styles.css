@@ -83,3 +83,18 @@
     position: absolute;
     left: 5px;
 }
+
+.obelisk{
+    width: auto;
+    height: 70vh;
+    position:absolute;
+    left:0px;
+    bottom: 30px;
+    outline: 5px solid rgb(0, 0, 0);
+}
+
+.citeObelisk{
+    position: absolute;
+    left: 5px;
+    bottom: 0px;
+}
