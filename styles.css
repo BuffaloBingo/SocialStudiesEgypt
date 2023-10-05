@@ -3,27 +3,29 @@
     user-select: none;
 }
 
+.main{
+    font-family: "papyrus", fantasy;
+}
+
 
 .title{
     position: absolute;
     width: 100%;
     color: rgb(0, 0, 0);
     text-align: center;
-    font-family: "papyrus", fantasy;
+
     font-size: 50px;
 }
 .tabBut{
     height:20vh;
     width:20vw;
-
-    
-
     font-family: "papyrus", fantasy;
+    
     font-size: 30px;
     border-radius: 20px;
     border-width:5px;
 
-    
+    cursor: pointer;
 }
 
 .arch{
@@ -45,4 +47,37 @@
     position:absolute;
     left:70vw;
     top: 40vh;
+}
+
+.citeBut{
+    position: absolute;
+    right:50px;
+    bottom: 1vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color:rgb(131, 131, 131) ;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.b{
+    display: none;
+}
+
+.c{
+    display: none;
+}
+
+.d{
+    display: none;
+}
+
+.cite{
+    display: none;
+}
+
+.back{
+    width: 5vw;
+    height: auto;
+    cursor: pointer;
 }
