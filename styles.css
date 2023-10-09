@@ -21,7 +21,7 @@
 .tabBut{
     height:20vh;
     width:20vw;
-    font-family: "papyrus", fantasy;
+    font-family: "papyrus","times new roman", fantasy;
     
     font-size: 30px;
     border-radius: 20px;
@@ -44,7 +44,7 @@
     top: 40vh;
 }
 
-.hiero{
+.math{
     background-color: rgb(212, 206, 37);
     position:absolute;
     left:70vw;
@@ -115,12 +115,34 @@
     bottom: 0px;
     right: 5px;
 }
+.monument{
+    height: auto;
+    width: 15vw;
+    position:absolute;
+    right:0px;
+    top: 30px;
+    outline: 5px solid rgb(0, 0, 0);
+}
 
-.info{
+.citeMonument{
+    position: absolute;
+    top: 0px;
+    right: 5px;
+}
+
+.infom{
     font-size: 20px;
     width:90vw;
     height: 40vh;
     position: absolute;
     top:70px;
     left:5vw;
+}
+.infoar{
+    font-size: 23px;
+    width:50vw;
+    height: 80vh;
+    position: absolute;
+    top:80px;
+    left:25vw;
 }

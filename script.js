@@ -20,13 +20,13 @@ function astback(){
     document.getElementById("main").style.display="block";
 }
 
-function hiero(){
-    document.getElementById("hiero").style.display="block";
+function  math(){
+    document.getElementById(" math").style.display="block";
     document.getElementById("main").style.display="none";
 }
 
-function hieroback(){
-    document.getElementById("hiero").style.display="none";
+function  mathback(){
+    document.getElementById(" math").style.display="none";
     document.getElementById("main").style.display="block";
 }
 
