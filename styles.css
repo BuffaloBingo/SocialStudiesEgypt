@@ -1,6 +1,7 @@
 .body{
     background-color: rgb(237, 238, 238);
     user-select: none;
+    
 }
 
 .main{
@@ -15,6 +16,7 @@
     text-align: center;
 
     font-size: 50px;
+    top:-10px;
 }
 .tabBut{
     height:20vh;
@@ -85,8 +87,8 @@
 }
 
 .obelisk{
-    width: auto;
-    height: 70vh;
+    height: auto;
+    width: 20vw;
     position:absolute;
     left:0px;
     bottom: 30px;
@@ -97,4 +99,28 @@
     position: absolute;
     left: 5px;
     bottom: 0px;
+}
+
+.pyramid{
+    height: auto;
+    width: 20vw;
+    position:absolute;
+    right:0px;
+    bottom: 30px;
+    outline: 5px solid rgb(0, 0, 0);
+}
+
+.citePyramid{
+    position: absolute;
+    bottom: 0px;
+    right: 5px;
+}
+
+.info{
+    font-size: 20px;
+    width:90vw;
+    height: 40vh;
+    position: absolute;
+    top:70px;
+    left:5vw;
 }
