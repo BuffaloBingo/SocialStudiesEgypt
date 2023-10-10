@@ -18,6 +18,17 @@
     font-size: 50px;
     top:-10px;
 }
+
+.citetext{
+    position: absolute;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+    font-size: 30px;
+    top:100px;
+}
+
 .tabBut{
     height:20vh;
     width:20vw;
@@ -128,6 +139,36 @@
     position: absolute;
     top: 0px;
     right: 5px;
+}
+
+.papy{
+    height: auto;
+    width: 25vw;
+    position:absolute;
+    left:0px;
+    bottom: 30px;
+    outline: 5px solid rgb(0, 0, 0);
+}
+
+.mathy{
+    height: auto;
+    width: 20vw;
+    position:absolute;
+    right:0px;
+    bottom: 30px;
+    outline: 5px solid rgb(0, 0, 0);
+}
+
+.citeMathy{
+    position: absolute;
+    bottom: 0px;
+    right: 5px;
+}
+
+.citePapy{
+    position: absolute;
+    bottom: 0px;
+    left: 5px;
 }
 
 .infom{
