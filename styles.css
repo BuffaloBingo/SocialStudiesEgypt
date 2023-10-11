@@ -21,12 +21,26 @@
 
 .citetext{
     position: absolute;
-    width: 100%;
+    width: 90vw;
     color: rgb(0, 0, 0);
-    text-align: center;
-
+    padding-left: 1.5em;
+    text-indent:-1.5em;
+    left:5vw;
     font-size: 30px;
-    top:100px;
+    
+}
+
+.Z{
+    position: absolute;
+    top:15vh;
+}
+.Y{
+    position: absolute;
+    top:35vh;
+}
+.X{
+    position: absolute;
+    top:55vh;
 }
 
 .tabBut{
