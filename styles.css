@@ -187,3 +187,12 @@
     top:80px;
     left:25vw;
 }
+
+.infoma{
+    font-size: 23px;
+    width:90vw;
+    height: 80vh;
+    position: absolute;
+    top:80px;
+    left:5vw;
+}
