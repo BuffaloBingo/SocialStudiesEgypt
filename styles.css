@@ -150,6 +150,14 @@
     outline: 5px solid rgb(0, 0, 0);
 }
 
+
+
+.citePapy{
+    position: absolute;
+    bottom: 0px;
+    left: 5px;
+}
+
 .mathy{
     height: auto;
     width: 20vw;
@@ -165,7 +173,18 @@
     right: 5px;
 }
 
-.citePapy{
+.clock{
+    height: auto;
+    width: 25vw;
+    position:absolute;
+    left:0px;
+    bottom: 30px;
+    outline: 5px solid rgb(0, 0, 0);
+}
+
+
+
+.citeClock{
     position: absolute;
     bottom: 0px;
     left: 5px;
@@ -197,6 +216,15 @@
 }
 
 .infoma{
+    font-size: 23px;
+    width:90vw;
+    height: 80vh;
+    position: absolute;
+    top:80px;
+    left:5vw;
+}
+
+.infoas{
     font-size: 23px;
     width:90vw;
     height: 80vh;
