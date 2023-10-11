@@ -232,3 +232,10 @@
     top:80px;
     left:27vw;
 }
+
+.name{
+    font-size: 10px;
+    position: absolute;
+    bottom: 0px;
+    left:10px;
+}
